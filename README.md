@@ -1,12 +1,8 @@
 # CNN : torch_vs_Tensorflow2.0
 
 |Framework|Tensorflow|Pytorch|
-|:-----:|:------:|:-------:|
-|Pros|- Simple built-in high-level API
-- Visualizing training with Tensorboard 
-(also torch)
-- Production-ready
-- Easy mobile support (TF Light) |
+|:-----:|:------|:-------:|
+|Pros|- Simple built-in high-level API \n - Visualizing training with Tensorboard (also torch) \n - Production-ready \n- Easy mobile support (TF Light) |
 - Python-like coding
 - Dynamic graph.
 - Easy & quick editing
