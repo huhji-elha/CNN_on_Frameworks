@@ -1,8 +1,10 @@
 # CNN : torch_vs_Tensorflow2.0
 
 |Framework|Tensorflow|Pytorch|
-|:-----:|:------|:-------|
+|:-----:|------|-------|
 |Pros|- Simple built-in high-level API  <br>- Visualizing training with Tensorboard (also torch) <br> - Production-ready <br>- Easy mobile support (TF Light) |- Python-like coding <br> - Dynamic graph. <br> - Easy & quick editing <br> Plenty of projects using Pytorch.|
+|Cons|- Static graph <br> - Debuggin method <br> - bug..... (2.* ver) <br> - Hard to make quick changes. | - Third-party needed for visualization. (need Tensorboard) <br>- API server needed for production |
+|Recommendation|If you want to make thing faster and build AI-related products. | for research-oriented developers as it supports fast and dynamic training. |
 
 
 
