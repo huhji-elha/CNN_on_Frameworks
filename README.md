@@ -2,7 +2,7 @@
 
 |Framework|Tensorflow|Pytorch|
 |:-----:|:------|:-------|
-|Pros|- Simple built-in high-level API  <br>- Visualizing training with Tensorboard (also torch) \\ - Production-ready \\- Easy mobile support (TF Light) |- Python-like coding \\ - Dynamic graph. \\ - Easy & quick editing \\- Plenty of projects using Pytorch.|
+|Pros|- Simple built-in high-level API  <br>- Visualizing training with Tensorboard (also torch) <br> - Production-ready <br>- Easy mobile support (TF Light) |- Python-like coding <br> - Dynamic graph. <br> - Easy & quick editing <br> Plenty of projects using Pytorch.|
 
 
 
