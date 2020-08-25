@@ -1,4 +1,4 @@
-# CNN_torch_vs_Tensorflow2.0
+# CNN : torch_vs_Tensorflow2.0
 
 ### 1. basic CNN - torch vs tensorflow
 
