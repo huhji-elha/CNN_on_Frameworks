@@ -18,12 +18,12 @@ _from : https://hackr.io/blog/pytorch-vs-tensorflow_
 ![3depth_cnn](img/depth3_cnn.png)
 _from : http://personal.ie.cuhk.edu.hk/~ccloy/project_target_code/index.html_
 * Pytorch 1.4.0 version's CNN 3depth layers : [basic_cnn_torch](/basic_cnn_torch.ipynb)
-* Tensorflow 2.3.1 version's CNN 3depth layers : [basic_cnn_tensorflow](/basic_cnn_tensorflow_2.3.0.ipynb)
+* Tensorflow 2.3.0 version's CNN 3depth layers : [basic_cnn_tensorflow](/basic_cnn_tensorflow_2.3.0.ipynb)
 
 _for more information, visit my notion! : [cnn-framworks-compare](https://www.notion.so/Convolutional-Neural-Network-df3587d48d5c46738a0d4b91a0ac98c1)_
 
 ### 2. Advanced CNN(VGG) - torch vs tensorflow
 ### 3. ResNet - torch vs tensorflow
-
+### 4. DELF 
 
 
